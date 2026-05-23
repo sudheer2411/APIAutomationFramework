@@ -1,1 +1,3 @@
 I am at local to make some changes in this file to resolve merge.
+I am at remote to make some changes to resolve merge conflict in this file.
+
